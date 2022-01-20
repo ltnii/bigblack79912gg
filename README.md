@@ -5,3 +5,5 @@ https://elements.heroku.com/buildpacks/biggerpockets/nginx-buildpack-ssl-proxy
 https://elements.heroku.com/buildpacks/mongodb-js/nginx-buildpack-ssl-proxy
 https://goguardian.school/
 https://3kh0.github.io/soundboard/
+www.bluejay.cloud
+https://nabilafk.github.io
