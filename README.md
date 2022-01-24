@@ -10,3 +10,7 @@ https://nabilafk.github.io
 
 
 https://ridgethread.com/
+https://4anime.biz/
+https://animekisa.vip
+https://frenzymovies.net/
+https://sites.google.com/view/rbsug
