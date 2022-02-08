@@ -38,3 +38,6 @@ https://x-ray-edu.gq/
 
 
 https://wdkjhdk.herokuapp.com
+
+
+https://www.teledoc.al/
