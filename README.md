@@ -41,3 +41,15 @@ https://wdkjhdk.herokuapp.com
 
 
 https://www.teledoc.al/
+
+
+https://ensuremath.com/
+
+
+https://languagetips.net/
+
+
+https://manualcars.net/
+
+
+https://chemistryhelp.org/
